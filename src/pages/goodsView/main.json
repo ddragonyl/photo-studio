@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "i-icon": "../../../static/iview/icon/index",
+    "i-modal": "../../../static/iview/modal/index"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#fd4c54",
+  "usingComponents": {
+    "i-cell": "../../../static/iview/cell/index",
+    "i-cell-group": "../../../static/iview/cell-group/index"
+  }
+}
